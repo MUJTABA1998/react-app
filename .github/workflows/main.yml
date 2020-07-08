@@ -41,4 +41,4 @@ jobs:
       uses: npm install -g surge
     
     - name: Deploying to surge
-      uses: surge ./build http://react-app-surge-based.surge.sh/ --token ${{secrets.SURGE_TOKEN2}}
+      uses: surge ./build http://react-app-surge-based.surge.sh/ --token ${{secrets.SURGE}}
