@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h3>Hello React Application</h3>
+        <h3>React Application On Surge Server</h3>
       </header>
     </div>
   );
